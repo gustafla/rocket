@@ -89,7 +89,7 @@ The following was tested on Ubuntu 16.10 (yakkety).
 Install SDL-dev:
 
 ```
-sudo apt-get install libsdl1.2-dev
+sudo apt-get install libsdl2-dev
 ```
 
 Install [tundra](https://github.com/deplinenoise/tundra):
